@@ -1,0 +1,33 @@
+plugins {
+    id 'java'
+    id 'application'
+    id 'com.github.johnrengelman.shadow' version '5.1.0'
+}
+
+group 'CrystalEye'
+version '0.1.0'
+
+repositories {
+    mavenCentral()
+}
+
+application {
+    // Change this to your main class.
+    mainClassName = "Main.CrystalEye"
+}
+dependencies {
+    String javaFxVersion = '11'
+    testImplementation 'org.junit.jupiter:junit-jupiter:5.5.0'
+
+    implementation "com.google.guava:guava:16+"
+}
+shadowJar {
+    archiveBaseName = "CrystalEye"
+    archiveVersion = "0.1.1"
+    archiveClassifier = null
+    archiveAppendix = null
+}
+
+run {
+    standardInput = System.in
+}
