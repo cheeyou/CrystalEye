@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CrystalEye.CrystalEye.iml" filepath="$PROJECT_DIR$/.idea/modules/CrystalEye.CrystalEye.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CrystalEye.CrystalEye.main.iml" filepath="$PROJECT_DIR$/.idea/modules/CrystalEye.CrystalEye.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CrystalEye.CrystalEye.test.iml" filepath="$PROJECT_DIR$/.idea/modules/CrystalEye.CrystalEye.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/org.openjfx.CrystalEye.iml" filepath="$PROJECT_DIR$/.idea/modules/org.openjfx.CrystalEye.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/org.openjfx.CrystalEye.main.iml" filepath="$PROJECT_DIR$/.idea/modules/org.openjfx.CrystalEye.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/org.openjfx.CrystalEye.test.iml" filepath="$PROJECT_DIR$/.idea/modules/org.openjfx.CrystalEye.test.iml" />
     </modules>
   </component>
 </project>

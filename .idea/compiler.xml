@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="CrystalEye.CrystalEye.main" target="11" />
       <module name="CrystalEye.CrystalEye.test" target="11" />
+      <module name="org.openjfx.CrystalEye.main" target="14" />
+      <module name="org.openjfx.CrystalEye.test" target="14" />
       <module name="seedu.duke.CrystalEye.main" target="11" />
       <module name="seedu.duke.CrystalEye.test" target="11" />
     </bytecodeTargetLevel>

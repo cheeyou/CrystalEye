@@ -1,6 +1,6 @@
 package storage;
 
-import Main.CustomerManager;
+import main.CustomerManager;
 
 /**
  * Wraps all the data needed to be used for saving and loading
