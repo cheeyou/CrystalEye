@@ -2,75 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5595c1eb-5fe2-4bc3-b44d-76323543f4a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_openjfx_javafx_base_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_openjfx_javafx_base_win_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_openjfx_javafx_controls_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_openjfx_javafx_controls_win_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_openjfx_javafx_fxml_win_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_openjfx_javafx_graphics_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_openjfx_javafx_graphics_win_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/org.openjfx.CrystalEye.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/org.openjfx.CrystalEye.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/org.openjfx.CrystalEye.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/openjfx/FXMLController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/openjfx/MainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org.openjfx/scene.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org.openjfx/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/openjfx/HomeWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org.openjfx/test.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/CrystalEye.CrystalEye.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/CrystalEye.CrystalEye.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/CrystalEye.CrystalEye.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/org.openjfx.CrystalEye.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/org.openjfx.CrystalEye.test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/main/CrystalEye.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/main/CrystalEye.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/main/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/main/Customer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/main/CustomerManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/main/CustomerManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/main/DataFields.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/main/DataFields.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/main/FinalRX.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/main/FinalRX.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/main/Gender.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/main/Gender.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/main/Phone.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/main/Phone.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/main/PrevRX.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/main/PrevRX.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/main/ProductRX.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/main/ProductRX.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/main/RX.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/main/RX.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/main/Status.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/main/Status.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/main/SubRX.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/main/SubRX.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/main/Transaction.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/main/Transaction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/main/TransactionManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/main/TransactionManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/main/java/commands/addCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/main/java/commands/findCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/storage/CentralManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/storage/CentralManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/openjfx/MainApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/openjfx/MainApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/org.openjfx/HomeWindow.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/org.openjfx/HomeWindow.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main/CrystalEye.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/CrystalEye.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main/CustomerManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/CustomerManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main/DataFields.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/DataFields.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main/FinalRX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/FinalRX.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main/Gender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/Gender.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/Phone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main/PrevRX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/PrevRX.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main/ProductRX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/ProductRX.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main/RX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/RX.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main/Status.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/Status.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main/SubRX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/SubRX.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main/Transaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/Transaction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main/TransactionManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/TransactionManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/commands/addCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/commands/findCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/storage/CentralManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/storage/CentralManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/openjfx/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/openjfx/MainApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org.openjfx/HomeWindow.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org.openjfx/HomeWindow.fxml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -118,23 +66,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/main/CrystalEye.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="37" column="1" selection-start-line="37" selection-end-line="37" selection-end-column="1" />
+            <state relative-caret-position="272">
+              <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -142,8 +78,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/openjfx/FXMLController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="255">
+              <caret line="15" column="56" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -151,11 +87,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/openjfx/MainApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1193">
-              <caret line="109" column="43" selection-start-line="109" selection-start-column="43" selection-end-line="109" selection-end-column="43" />
+            <state relative-caret-position="-1132">
+              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -164,20 +100,35 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/org.openjfx/scene.fxml">
+        <entry file="file://$PROJECT_DIR$/src/main/java/main/CrystalEye.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+            <state relative-caret-position="238">
+              <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
-          <provider editor-type-id="JavaFX-Scene-Builder" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/org.openjfx/styles.css">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/openjfx/HomeWindow.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+            <state relative-caret-position="340">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/org.openjfx/HomeWindow.fxml">
+          <provider editor-type-id="JavaFX-Scene-Builder" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="128" selection-start-line="17" selection-start-column="128" selection-end-line="17" selection-end-column="128" />
             </state>
           </provider>
         </entry>
@@ -187,8 +138,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="FxmlFile" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -206,10 +157,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Sex.java" />
-        <option value="$PROJECT_DIR$/src/Status.java" />
-        <option value="$PROJECT_DIR$/src/PrevRX.java" />
-        <option value="$PROJECT_DIR$/src/SubRX.java" />
         <option value="$PROJECT_DIR$/src/FinalRX.java" />
         <option value="$PROJECT_DIR$/src/ProductRX.java" />
         <option value="$PROJECT_DIR$/src/Data.java" />
@@ -254,9 +201,13 @@
         <option value="$PROJECT_DIR$/src/main/java/main/CrystalEye.java" />
         <option value="$PROJECT_DIR$/src/main/java/module-info.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/openjfx/FXMLController.java" />
-        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/resources/org.openjfx/scene.fxml" />
+        <option value="$PROJECT_DIR$/src/main/resources/org.openjfx/test.css" />
         <option value="$PROJECT_DIR$/src/main/java/org/openjfx/MainApp.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/org.openjfx/HomeWindow.fxml" />
+        <option value="$PROJECT_DIR$/src/main/resources/org.openjfx/buttonshadow.css" />
+        <option value="$PROJECT_DIR$/src/main/java/org/openjfx/HomeWindow.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
       </list>
     </option>
   </component>
@@ -266,7 +217,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1358" />
     <option name="width" value="1390" />
     <option name="height" value="1756" />
@@ -278,6 +229,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -324,17 +276,32 @@
               <item name="CrystalEye" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="storage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CrystalEye" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CrystalEye" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CrystalEye" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CrystalEye" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="org.openjfx" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593424886518" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1595230570778" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -377,10 +344,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="679" y="0" width="695" height="878" extended-state="0" />
+    <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.41287285" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19425549" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -394,9 +361,9 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.33774835" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.20264901" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Build" order="9" weight="0.14973262" />
+      <window_info anchor="bottom" id="Build" order="9" weight="0.14966887" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.328877" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.2494331" />
@@ -455,16 +422,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/modules/CrystalEye.CrystalEye.test.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/storage/CentralManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules/CrystalEye.CrystalEye.test.iml" />
     <entry file="file://$PROJECT_DIR$/src/main/java/main/Gender.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -572,49 +530,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/commands/FindCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/commands/CommandQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
-          <folding>
-            <element signature="e#338#339#0" expanded="true" />
-            <element signature="e#375#376#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/commands/CommandCreator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
-          <folding>
-            <element signature="e#817#818#0" expanded="true" />
-            <element signature="e#844#845#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/commands/AddCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/commands/Command.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/commands/FindCommand.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/commands/CommandQueue.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/commands/CommandCreator.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/commands/AddCommand.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/commands/Command.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/main/Phone.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -625,10 +545,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/module-info.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/module-info.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/openjfx/scene.fxml" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/org.openjfx/scene.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        <state relative-caret-position="187">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -639,39 +562,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/openjfx/scene.fxml">
-      <provider selected="true" editor-type-id="text-editor" />
-      <provider editor-type-id="JavaFX-Scene-Builder" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/org.openjfx/buttonshadow.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="37" column="1" selection-start-line="37" selection-end-line="37" selection-end-column="1" />
+        <state relative-caret-position="-650">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/main/CrystalEye.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/org.openjfx/test.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="30" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/storage/CentralManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/openjfx/FXMLController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+          <caret line="15" column="56" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/org.openjfx/scene.fxml">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/org.openjfx/HomeWindow.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        <state relative-caret-position="289">
+          <caret line="17" column="128" selection-start-line="17" selection-start-column="128" selection-end-line="17" selection-end-column="128" />
         </state>
       </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/openjfx/FXMLController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/openjfx/HomeWindow.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -680,11 +613,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/openjfx/MainApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1193">
-          <caret line="109" column="43" selection-start-line="109" selection-start-column="43" selection-end-line="109" selection-end-column="43" />
+        <state relative-caret-position="-1132">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/main/CrystalEye.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
         </state>
       </provider>
     </entry>

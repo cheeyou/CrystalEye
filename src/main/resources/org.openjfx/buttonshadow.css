@@ -1,0 +1,89 @@
+.root{
+  -fx-background-color: linear-gradient(from 25px 25px to 100px 100px, #0398fc, #97DEF5);
+}
+.button1 {
+  -fx-background-color: linear-gradient(from 25px 25px to 100px 100px, #7b81ef, #3bd1d3);
+  -fx-padding: 1em 3em;
+  -fx-background-radius: 50px;
+  -fx-background-repeat: no-repeat;
+  -fx-background-size: 100%;
+  -fx-background-clip: padding-box;
+  -fx-position-shape: relative;
+  -fx-border-color: solid rgba(255, 255, 255, 0.45);
+  -fx-border-width: 6px;
+  -fx-border-radius: 50px;
+  -fx-text-fill: #FFF;
+}
+
+.button2 {
+  -fx-background-color: linear-gradient(from 25px 25px to 100px 100px, #fa80d2, #fed757);
+  -fx-padding: 1em 3em;
+  -fx-background-radius: 50px;
+  -fx-background-repeat: no-repeat;
+  -fx-background-size: 100%;
+  -fx-background-clip: padding-box;
+  -fx-position-shape: relative;
+  -fx-border-color: solid rgba(255, 255, 255, 0.45);
+  -fx-border-width: 6px;
+  -fx-border-radius: 50px;
+  -fx-text-fill: #FFF;
+}
+
+.button3 {
+  -fx-background-color: linear-gradient(from 25px 25px to 100px 100px, #8ce0f1, #79f391);
+  -fx-padding: 1em 3em;
+  -fx-background-radius: 50px;
+  -fx-background-repeat: no-repeat;
+  -fx-background-size: 100%;
+  -fx-background-clip: padding-box;
+  -fx-position-shape: relative;
+  -fx-border-color: solid rgba(255, 255, 255, 0.45);
+  -fx-border-width: 6px;
+  -fx-border-radius: 50px;
+  -fx-text-fill: #FFF;
+}
+
+.button4 {
+  -fx-background-color: linear-gradient(from 25px 25px to 100px 100px, #525a69, #898dda);
+  -fx-padding: 1em 3em;
+  -fx-background-radius: 50px;
+  -fx-background-repeat: no-repeat;
+  -fx-background-size: 100%;
+  -fx-background-clip: padding-box;
+  -fx-position-shape: relative;
+  -fx-border-color: solid rgba(255, 255, 255, 0.45);
+  -fx-border-width: 6px;
+  -fx-border-radius: 50px;
+  -fx-text-fill: #FFF;
+}
+
+
+.button5 {
+  -fx-content: "";
+  -fx-width: 100%;
+  -fx-height: 100%;
+  -fx-position: absolute;
+  -fx-top: 5px;
+  -fx-left: 5px;
+  -fx-border-radius: 50px;
+  -fx-z-index: -1;
+  -fx-filter: blur(14px);
+  -fx-background-color: linear-gradient(from 25px 25px to 100px 100px, #fa80d2, transparent);
+}
+
+.button::after {
+  -fx-content: "";
+  -fx-width: 100%;
+  -fx-height: 100%;
+  -fx-position: absolute;
+  -fx-top: 5px;
+  -fx-left: 5px;
+  -fx-border-radius: 50px;
+  -fx-z-index: -1;
+  -fx-filter: blur(14px);
+  -fx-background-color: linear-gradient(from 25px 25px to 100px 100px, transparent, #3bd1d3);
+}
+
+
+
+

@@ -81,7 +81,7 @@ public class MainApp extends Application {
         mainLayout.getChildren().addAll(splitPane);
 
         Scene scene = new Scene(mainLayout);
-        scene.getStylesheets().add(getClass().getResource("/org.openjfx/styles.css").toExternalForm());
+        scene.getStylesheets().add(getClass().getResource("/org.openjfx/buttonshadow.css").toExternalForm());
 
         stage.setTitle("CrystalEye");
         stage.setResizable(true);
