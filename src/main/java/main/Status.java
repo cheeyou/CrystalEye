@@ -1,8 +1,8 @@
 package main;
 
 public enum Status {
-    DONE,
     PENDING,
-    READYFORCOLLECTION
+    READYFORCOLLECTION,
+    DONE
 
 }

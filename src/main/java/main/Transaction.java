@@ -6,23 +6,23 @@ import java.util.Calendar;
  * A class that represents a transaction
  */
 public class Transaction {
-    private final int transactionID;
+    private final int transactionId;
     private final Calendar transactionDate;
     private DataFields transactionData;
     private double price;
     private Status status;
 
-    public Transaction(int transactionID, Calendar transactionDate, DataFields transactionData,
+    public Transaction(int transactionId, Calendar transactionDate, DataFields transactionData,
                        double price, Status status){
-        this.transactionID = transactionID;
+        this.transactionId = transactionId;
         this.transactionDate = transactionDate;
         this.transactionData = transactionData;
         this.price = price;
         this.status = status;
     }
 
-    public int getTransactionID() {
-        return this.transactionID;
+    public int getTransactionId() {
+        return this.transactionId;
     }
     public Calendar getTransactionDate() {
         return this.transactionDate;
@@ -46,6 +46,24 @@ public class Transaction {
         this.status = newStatus;
     }
 
+    public static boolean isValidId(String id) {
+        try {
+            int tempInt = Integer.parseInt(id);
+            return (tempInt > 0);
+        } catch (NumberFormatException e) {
+            return false;
+        }
+    }
+
+    public static boolean isValidPrice(String price) {
+        try {
+            double tempDouble = Double.parseDouble(price);
+            return (tempDouble > 0.0);
+        } catch (NumberFormatException e) {
+            return false;
+        }
+    }
+
     @Override
     public boolean equals(Object other) {
         if (other == this) {
@@ -57,7 +75,7 @@ public class Transaction {
         }
 
         Transaction otherTransaction = (Transaction) other;
-        return otherTransaction.getTransactionID() == this.getTransactionID()
+        return otherTransaction.getTransactionId() == this.getTransactionId()
                 && otherTransaction.getTransactionDate().equals(this.getTransactionDate())
                 && otherTransaction.getTransactionData().equals(this.getTransactionData())
                 && otherTransaction.getPrice() == this.getPrice()
@@ -68,7 +86,7 @@ public class Transaction {
     public String toString() {
         StringBuilder transactionBuilder = new StringBuilder();
         transactionBuilder.append("Transaction ")
-                .append(this.getTransactionID())
+                .append(this.getTransactionId())
                 .append("\n date: ")
                 .append(this.getTransactionDate().toString())
                 .append(" \n price (in Ringgit): ")

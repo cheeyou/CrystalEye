@@ -14,12 +14,18 @@ repositories {
 
 application {
     // Change this to your main class.
+<<<<<<< HEAD
     mainClassName = "main.CrystalEye"
+=======
+    mainClassName = "MainApp"
+>>>>>>> logic
 }
 dependencies {
     String javaFxVersion = '11'
     testImplementation 'org.junit.jupiter:junit-jupiter:5.5.0'
     implementation "com.google.guava:guava:16+"
+    implementation group: 'com.fasterxml.jackson.core', name: 'jackson-databind', version: '2.7.0'
+    implementation group: 'com.fasterxml.jackson.datatype', name: 'jackson-datatype-jsr310', version: '2.7.4'
 }
 shadowJar {
     archiveBaseName = "CrystalEye"

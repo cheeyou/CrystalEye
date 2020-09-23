@@ -6,10 +6,8 @@ import java.io.IOException;
 //import org.json.simple.JSONArray;
 //import org.json.simple.JSONObject;
 
-/**
- * A class that takes in latest data at any point in time and writes it into a file for storage
- */
-public class Storage {
+
+public interface Storage extends Centra{
 
     private CentralManager centralManager;
 
