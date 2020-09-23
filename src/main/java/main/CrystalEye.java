@@ -5,6 +5,8 @@ import java.util.NoSuchElementException;
 import java.util.Scanner;
 import java.util.TimeZone;
 
+import model.customer.Customer;
+
 
 /**
  * Temporary main class (indicated in build.gradle) in v 0.01, reads data

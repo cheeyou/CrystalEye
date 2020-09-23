@@ -28,8 +28,8 @@ public class DataFields {
     public FinalRX getFinalRX() {
         return this.finalRX;
     }
-    public ProductRX getProductRX() throws NoSuchElementException {
-        return this.productRX.get();
+    public Optional<ProductRX> getProductRX() {
+            return this.productRX;
     }
     //neeed to know how to update data fields
     public void updateData() {

@@ -10,6 +10,8 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Gradle: com.google.guava:guava:16.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.7.4" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.7.4" level="project" />
     <orderEntry type="library" name="Gradle: org.openjfx:javafx-fxml:win:14" level="project" />
     <orderEntry type="library" name="Gradle: org.openjfx:javafx-controls:win:14" level="project" />
     <orderEntry type="library" name="Gradle: org.openjfx:javafx-controls:14" level="project" />
@@ -17,5 +19,7 @@
     <orderEntry type="library" name="Gradle: org.openjfx:javafx-graphics:14" level="project" />
     <orderEntry type="library" name="Gradle: org.openjfx:javafx-base:win:14" level="project" />
     <orderEntry type="library" name="Gradle: org.openjfx:javafx-base:14" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.7.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-core:2.7.4" level="project" />
   </component>
 </module>
